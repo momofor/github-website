@@ -1,10 +1,15 @@
 #h1 {
-  color: cyan;
+  color: #88c0d0;
+  text-align: center;
+  padding: 2px;
+  font-family: sans-serif;
 }
 body {
-  background-color: darkblue;
+  background-color: #2e3440;
 }
-.r1 {
-  color: lightgreen;
-  background-color: blue;
+#r1 {
+  color: #eceff4;
+}
+.top-bar {
+  color: #81a1c1;
 }
