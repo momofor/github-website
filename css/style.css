@@ -12,4 +12,5 @@ body {
 }
 .top-bar {
   color: #81a1c1;
+  display: inline-block;
 }
