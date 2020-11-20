@@ -1,0 +1,34 @@
+{
+  "name": "main.js",
+  "version": "1.0.0",
+  "description": "the main script for my website",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momofor/github-website.git"
+  },
+  "keywords": [
+    "website",
+    "github-pages",
+    "momofor-website",
+    "github-website",
+    "momofor"
+  ],
+  "author": "momofor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momofor/github-website/issues"
+  },
+  "homepage": "https://github.com/momofor/github-website#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.8.1",
+    "@typescript-eslint/parser": "^4.8.1",
+    "eslint": "^7.13.0"
+  },
+  "dependencies": {
+    "typescript": "^4.1.2"
+  }
+}
