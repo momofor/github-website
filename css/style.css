@@ -1,16 +1,23 @@
 #h1 {
-  color: #88c0d0;
-  text-align: center;
-  padding: 2px;
-  font-family: sans-serif;
+	color: #88c0d0;
+	text-align: center;
+	padding: 2px;
+	font-family: sans-serif;
 }
+
 body {
-  background-color: #2e3440;
+	background-color: #2e3440;
 }
+
 #r1 {
-  color: #eceff4;
+	color: #eceff4;
 }
 .top-bar {
-  color: #81a1c1;
-  display: inline-block;
+	color: #81a1c1;
+	display: inline-block;
+}
+
+#Home {
+	text-decoration: none;
+	color: #81a1c1;
 }
