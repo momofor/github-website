@@ -22,13 +22,12 @@ body {
 	color: #81a1c1;
 	font-size: 1.1em;
 	display: inline-block;
-	border: #88c0d0 solid 2px;
+	border: #88c0d0 dashed 1px;
 }
 
 #Home a {
 	text-decoration: none;
 	color: #81a1c1;
-	border: #88c0d0 solid 2px;
 }
 head {
 	color: red;
